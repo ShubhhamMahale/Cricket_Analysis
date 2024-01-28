@@ -14,6 +14,9 @@ The Cricket Analysis project utilizes Power BI for data visualization and analys
 - **All-Rounder Stats**: Insights into players who excel in both batting and bowling aspects.
 - **Dream Team of 11**: A curated selection of the top-performing players based on various statistical metrics.
 
+![image](https://github.com/ShubhhamMahale/Cricket_Analysis/assets/101944530/d8cfa138-4a57-4afd-9385-34732b29ae7a)
+
+
 ## Installation
 1. Clone the repository to your local machine.
    ```
