@@ -15,7 +15,26 @@ The Cricket Analysis project utilizes Power BI for data visualization and analys
 - **Dream Team of 11**: A curated selection of the top-performing players based on various statistical metrics.
 
 ![image](https://github.com/ShubhhamMahale/Cricket_Analysis/assets/101944530/d8cfa138-4a57-4afd-9385-34732b29ae7a)
+The dashboard comprises a players' table displaying their stats. Upon clicking on an individual player's name, their specific statistics will be presented. Additionally, there is a scatter chart comparing multiple players' batting average versus strike rate. The dashboard also provides links to other features related to players and the dream team selection.
 
+![image](https://github.com/ShubhhamMahale/Cricket_Analysis/assets/101944530/bb3aa5bf-5d84-43af-a481-fbe8f087db12)
+The dashboard presents a table of players featuring their all-rounder statistics.
+
+![image](https://github.com/ShubhhamMahale/Cricket_Analysis/assets/101944530/e7236b8f-212a-4828-9709-766035ca2738)
+The dashboard includes a table of players with their bowling statistics. Clicking on an individual player's name will display their specific bowling stats. Additionally, there is a scatter chart comparing the bowling averages versus economy rates for multiple players.
+
+![image](https://github.com/ShubhhamMahale/Cricket_Analysis/assets/101944530/67e0b234-a694-457a-bced-2ed76d9740ef)
+The above feature showcases a team of 11 players selected from various teams, combining their overall performance to form the best team.
+
+![image](https://github.com/ShubhhamMahale/Cricket_Analysis/assets/101944530/73388e6b-be63-42ed-ac0a-bbab36d451b5)
+Upon hovering the arrow above the player their individual stats is displayed. 
+
+## Questions Answered
+1. **Player Statistics**: Who are the players, and what are their individual stats?
+2. **Individual Player Insights**: What are the detailed stats of each player when selected?
+3. **Batting Average vs. Strike Rate Comparison**: How do the batting averages compare to the strike rates of multiple players?
+4. **All-Rounder Performance**: Which players demonstrate proficiency in both batting and bowling aspects?
+5. **Dream Team Selection**: Who are the top-performing players across different teams, forming the best team based on combined overall performance?
 
 ## Installation
 1. Clone the repository to your local machine.
