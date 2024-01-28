@@ -2,7 +2,7 @@
 
 
 ## Overview
-The Cricket Analysis project utilizes Power BI for data visualization and analysis of cricket statistics. Data is collected through web scraping using Python and Google Colab IPython notebooks. The scraped data includes player information, match data, batting stats, and bowling stats, which are then stored in JSON format and converted to CSV files for easy handling.
+The Cricket Analysis initiative utilizes Power BI for comprehensive visualization and analysis of cricket statistics. Through web scraping using Python and Google Colab, player information, match data, batting stats, and bowling stats are collected and transformed into CSV files. The interactive dashboard showcases player tables with detailed stats, enabling users to explore individual player performances. Additionally, a scatter chart compares batting averages against strike rates, providing insights into player efficiency. With links to features focusing on all-rounders and dream team selection, the analysis offers comprehensive tools for cricket enthusiasts and analysts alike.
 
 ## Features
 - **Web Scraping**: Python scripts are used to scrape data from cricket websites, gathering player and match statistics.
